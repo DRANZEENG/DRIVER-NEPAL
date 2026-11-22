@@ -2,7 +2,7 @@ YAML
 
 name: Build Driver Nepal APK
 
-on: [push, workflow_dispatch]
+'on': [push, workflow_dispatch]
 
 jobs:
   build:
